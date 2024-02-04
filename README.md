@@ -1,5 +1,5 @@
 # IndiaExchange
-IndiaExchange - a project concept to automate small business to medium scale business in a new way and slowly adopting wide area of business models.
+IndiaExchange - a project concept to automate small business, medium scale business, and large scale business models in a new way.
 
 Algorithm to allocate etf units: 
 
