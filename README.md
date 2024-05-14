@@ -1,10 +1,9 @@
 # IndiaExchange
 IndiaExchange - a project concept to automate small business, medium scale business, and large scale business models in an innovative way.
 
-Algorithm to allocate etf units: 
+Algorithm to allocate ETF Units: 
 
 ETF Value = Price of the Product / Population of the Trading System
-
 
 India Exchange will trade equities in different categories by splitting the total number of shares of existing or new company. A company can split or create different categories depending upon their requirements.
 
@@ -19,6 +18,7 @@ Stocks with Expiration Time: For Example, If an investor invest in FMCG Products
 NSE and BSE listed companies will be supported technically to migrate to India Exchange model easily.
 
 India Exchange model will provide Balance Sheet and Key Metrics of a company in real time to traders with help of Stock Market Automation using Robotics and AI. 
+
 We may expect to go live in coming days.
 
 
