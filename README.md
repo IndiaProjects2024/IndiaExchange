@@ -46,3 +46,4 @@ ETF Value = Price of the Product / Population of the Trading System
 
 
 
+
