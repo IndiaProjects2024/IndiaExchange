@@ -19,8 +19,7 @@ NSE and BSE listed companies will be supported technically to migrate to India E
 
 India Exchange model will provide Balance Sheet and Key Metrics of a company in real time to traders with help of Stock Market Automation using Robotics and AI. 
 
-We may expect to go live in coming days.
-
+We may expect to go live in a year.
 
 
 
