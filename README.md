@@ -14,17 +14,14 @@ Exchange will be operated 24/7 for traders to participate and trades will be set
 A Company will be allowed to create FPO (Further Public Offering) Issues regularly as per the company growth initiatives and their requirements.
 
 Stocks with Expiration Time: For Example, If an investor invest in FMCG Products and they may incur losses if the product was not sold before the expiry day in the shop or market. 
-
 We will publish products with expiration timeline in all the sectors.
+
 
 NSE and BSE listed companies will be supported technically to migrate to India Exchange model easily.
 
-India Exchange model will provide Balance Sheet and Key Metrics of a company in real time to traders with help of Stock Market automation in an innovative way. 
+India Exchange model will provide Balance Sheet and Key Metrics of a company in real time to traders with help of Stock Market Automation using Robotics and AI. 
 
 We expect to go live in coming days. 
-
-
-
 
 
 
