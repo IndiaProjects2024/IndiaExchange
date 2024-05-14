@@ -3,7 +3,7 @@ IndiaExchange - a project concept to automate small business, medium scale busin
 
 Algorithm to allocate etf units: 
 
-ETF Value = Price of the product / Population of the trading system
+ETF Value = Price of the Product / Population of the Trading System
 
 India Exchange will trade equities in different categories by splitting the total number of shares of existing or new company. A company can split or create different categories depending upon their requirements.
 
