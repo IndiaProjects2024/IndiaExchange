@@ -7,7 +7,7 @@ ETF Value = Price of the product / Population of the trading system
 
 India Exchange will trade equities in different categories by splitting the total number of shares of existing or new company. A company can split or create different categories depending upon their requirements.
 
-A Stock of a company of a company can be split into Category A for Infrastructure (Owned) or Infrastructure (Rental) , Category B for Supply and Category C for Company Management (Like investment for Workforce Management, Organization Management & Etc).
+A Stock of a company can be split into Category A for Infrastructure (Owned) or Infrastructure (Rental) , Category B for Supply and Category C for Company Management (Like investment for Workforce Management, Organization Management & Etc).
 
 Exchange will be operated 24/7 for traders to participate and trades will be settled in 5-10 minutes across the world.
 
